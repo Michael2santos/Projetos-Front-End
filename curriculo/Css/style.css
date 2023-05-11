@@ -5,3 +5,41 @@
 body{
     text-align: center;
 }
+
+#cabecalho{
+    background-color: aquamarine;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+#perfil{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+#Historico-profissional{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: cadetblue;
+}
+
+#Historico-profissional p{
+    text-align: left;
+    padding-left: 15px;
+}
+
+#formacao-academica{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: thistle;
+}
+
+#formacao-academica p{
+    text-align: left;
+    padding-left: 15px;
+}
+
+h4{
+    text-align: left;
+    padding-left: 15px;
+}
